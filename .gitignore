@@ -1,0 +1,28 @@
+# Environment variables (API keys)
+.env
+
+# Database file (generated at runtime)
+students.db
+*.db
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyc
+
+# Virtual environment
+env/
+venv/
+.venv/
+
+# Streamlit
+.streamlit/
+
+# IDE / editor
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
